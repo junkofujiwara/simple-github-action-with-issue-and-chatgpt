@@ -1,4 +1,4 @@
-# GitHub Action - Call ChatGPT Sample
+# GitHub Action - Call ChatGPT with GitHub Issue Open event Sample
 
 ### About
 Simple Sample Code for GitHub Action with ChatGPT API<br>
